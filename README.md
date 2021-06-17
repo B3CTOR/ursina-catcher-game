@@ -5,7 +5,7 @@
 
 ## General info
 
-This is a (very) little game made with Python 3.9 and the free and open source engine Ursina.
+This is a (very) little game made with Python 3.9 and the free and open source engine Ursina. In the assets directory you will find the 
 
 I have tried to convert the .py file with all the assets into a single .exe file but I couldn't, if you download the program and convert it into a one .exe file successfuly contact please contact me.
 
